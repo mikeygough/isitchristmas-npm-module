@@ -1,7 +1,7 @@
 {
-  "name": "isitchristmas",
-  "version": "1.0.0",
-  "description": "npm module that returns true if a given date is Christmas.",
+  "name": "@mikeygough/isitchristmas",
+  "version": "1.1.1",
+  "description": "teeny-tiny npm module that returns true if a given date is Christmas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
